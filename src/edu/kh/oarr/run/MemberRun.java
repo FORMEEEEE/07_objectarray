@@ -1,10 +1,13 @@
 package edu.kh.oarr.run;
 
+import edu.kh.oarr.model.vo.service.MemberService;
+
 public class MemberRun {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		MemberService ms = new MemberService();
+		ms.displayMenu();
 	}
 
 }
