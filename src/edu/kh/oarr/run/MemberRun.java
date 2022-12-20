@@ -10,4 +10,12 @@ public class MemberRun {
 		ms.displayMenu();
 	}
 
+	//getter setter
+	// 초기화 순서
+	// 배열 특징
+
+	 //배열 초기화 3가지
+
+	// 깊은복사 
+	// 얕은복사
 }
